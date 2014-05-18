@@ -40,7 +40,8 @@
     Test on non-production systems
     Do not run any script you don't understand.
 
-
+.WISHLIST
+  Has an Issue with some common area phone setups
 
 #>
 
