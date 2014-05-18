@@ -4,6 +4,7 @@
     Get Lync users/objects assigned to a Telephone number in Lync
 
 
+
 .DESCRIPTION
     Get Lync users/objects assigned to a Telephone number in Lync. In Lync many different "objects" can have a number assigned; 
     Users, Private Lines, Analog Devices, Common Area Phones, Exchange UM Contact Objects, Dialin Conference,
@@ -41,7 +42,7 @@
     Do not run any script you don't understand.
 
 .WISHLIST
-  Has an Issue with some common area phone setups
+  Has an Issue with some common area phone setups. Test Edit here
 
 #>
 
